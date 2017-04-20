@@ -1,6 +1,6 @@
-install: make get-deps
+install: make dep
 language: c
-script: scons
+script: make clean && make test
 compiler: 
    - gcc
 sudo: required
