@@ -3,3 +3,4 @@ language: c
 script: scons
 compiler: 
    - gcc
+sudo: required
