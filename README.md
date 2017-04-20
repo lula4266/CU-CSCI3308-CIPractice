@@ -7,7 +7,7 @@ Assignment to practice the use of continuous integration tools.
 Lucas Laird
 Univerity of Colorado  
 CSCI 3308  
-Summer 2014
+Fall 2017
 
 ### Requirements
 sudo apt-get install check
